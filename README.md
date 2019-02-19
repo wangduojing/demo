@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages利用这个免费域名
+## Welcome to GitHub Pages试试怎么用这个免费域名
 
 You can use the [editor on GitHub](https://github.com/wangduojing/demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
